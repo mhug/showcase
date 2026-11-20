@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ulais</title>
+            <author>
+               <persName>
+                  <surname>Wolfskehl</surname>
+                  <forename>Karl</forename>
+               </persName>
+            </author>
+            <editor/>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName ref="https://orcid.org/0000-0002-1096-3957">
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <orgName>BSB – Digitale Sammlungen</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Bild- und Textdigitalisierung (OCR) in Kooperation mit Google Books.</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2026-11-14</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb"/>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="M">Wolfskehl, Karl: Ulais. Berlin, 1897.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title type="main">Ulais</title>
+                  <author>
+                     <persName>
+                        <surname>Wolfskehl</surname>
+                        <forename>Karl</forename>
+                     </persName>
+                  </author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher>Blätter für die Kunst</publisher>
+                  <date>1897</date>
+                  <pubPlace>Berlin</pubPlace>
+               </publicationStmt>
+               <seriesStmt>
+                  <title level="m" type="main"/>
+                  <biblScope unit="volume"/>
+                  <biblScope unit="pages"/>
+               </seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11819086-4</repository>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main"/>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub"/>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus"/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <pb facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00001/full/600,/0/default.jpg"/>
+         <pb facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00002/full/600,/0/default.jpg"/>
+         <pb facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00003/full/600,/0/default.jpg"/>
+         <pb facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00004/full/600,/0/default.jpg"/>
+         <pb facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00005/full/600,/0/default.jpg"/>
+         <pb facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00006/full/600,/0/default.jpg"/>
+         <pb n="[1]"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00007/full/600,/0/default.jpg"/>
+         <p>
+            <l>ULAIS</l><lb/>
+         </p>
+         <pb n="[2]"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00008/full/600,/0/default.jpg"/>
+         <pb n="[3]"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00009/full/600,/0/default.jpg"/>
+         <p>
+	     <l><hi rendition="#red">U</hi>LAIS &#x00B7; <hi rendition="#red">V</hi>ON &#x00B7; <hi rendition="#red">K</hi>ARL &#x00B7; <hi rendition="#red">W</hi>OLFSKEHL</l><lb/>
+            <l><hi rendition="#red">B</hi>ERLIN &#x00B7; MDCCCXCVII &#x00B7; <hi rendition="#red">I</hi>M &#x00B7; <hi rendition="#red">V</hi>ERLAG</l><lb/>
+            <l><hi rendition="#red">D</hi>ER &#x00B7; <hi rendition="#red">B</hi>LÄTTER &#x00B7; <hi rendition="#red">F</hi>ÜR &#x00B7; <hi rendition="#red">D</hi>IE &#x00B7; <hi rendition="#red">K</hi>UNST</l><lb/>
+         </p>
+         <pb n="[4]"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00010/full/600,/0/default.jpg"/>
+         <pb n="[5]"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00011/full/600,/0/default.jpg"/>
+         <p>
+            <l>AN STEFAN GEORGE</l><lb/>
+         </p>
+         <pb n="[6]"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00012/full/600,/0/default.jpg"/>
+      </front>
+         <pb n="7"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00013/full/600,/0/default.jpg"/>
+         <body>
+         <div>
+            <head>DER PRIESTER VOM GEISTE</head><lb/>
+         
+         <p>
+            Aller lande gehäufte garben laden<lb/>
+            Aber du neigest die stirn und lächelst lange....<lb/>
+         </p>
+         <p>
+            <hi rendition="#in">U</hi>ND lächelst lange! Denn wie mochtest du heischen,<lb/>
+            was sie dir boten, das Mögliche wollen, gewiss der<lb/>
+            vollendung die hand ausstrecken nach dem erreich-<lb/>
+            baren: bist du ein handlanger?<lb/>
+         </p>
+         <p>
+            Von neuen schmerzen tauten deine lider: kein ver-<lb/>
+            gebliches sehnen – dass dir die reiche <hi rendition="#g">huldigten</hi> be-<lb/>
+            leidigte deine seele. Also dass sie müde ward und in<lb/>
+            ihren vesten schlummerte. Aus kraft wurdest du un-<lb/>
+            kräftig, weil du dich nicht überwinden konntest, zer-<lb/>
+            schelltest du träumend deine waffen. Immer ja will<lb/>
+            das höchste über sich selber triumphierend hinaus-<lb/>
+         <pb n="8"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00014/full/600,/0/default.jpg"/>
+            schreiten: jeder gipfel will abgrund werden einem<lb/>
+            neuen giptel. Wo aber rauchte der brand in den ver-<lb/>
+            sinkend du dich gebären konntest? Lange hatte man<lb/>
+            dich gelehrt, du seiest tempel zugleich und beter:<lb/>
+            kein ziel sei so hoch, kein weg so weit – du seiest<lb/>
+            das ende alles wanderns gleichwie sein anbeginn.<lb/>
+            du selbst seist das band nach dem deine stirne bange.<lb/>
+         </p>
+         <p>
+            Du hattest gelauscht und dem raunen neigte sich<lb/>
+            dein ohr: du zogest aus im glücke des suchens und<lb/>
+            die schauer des unbekannten kühlten deine schläfe.<lb/>
+         </p>
+         <p>
+            Mühevoll dünkten zum beginne dich frohen die<lb/>
+            pfade, nimmer zu fassen das lockende ziel und stolzer<lb/>
+            hob sich deine seele, denn in ihr brannte die lust zum<lb/>
+            ungeheuren.<lb/>
+         </p>
+         <p>
+            Seliges sehnen versunkener tage!<lb/>
+         </p>
+         <p>
+            Wehe dass ihm erfüllung ward!<lb/>
+         </p>
+         <p>
+            In scham und dumpfem weh versiegte das ver-<lb/>
+            trauende wagen da der sieg errungen war. Der leichte<lb/>
+            sieg! Ein spiegel war dir alles sein geworden und siehe<lb/>
+            du lachtest. Du lachtest wie nur ächzender überdruss<lb/>
+            wie nur schmerzliches grausen lachen kann. kleines<lb/>
+         <pb n="9"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00015/full/600,/0/default.jpg"/>
+            ziel! kleines ziel! Also tönten deine lippen, deine<lb/>
+            seele aber blutete.<lb/>
+         </p>
+         <p>
+            Du hülltest dich in den stolz deines leides du<lb/>
+            achtetest dessen nicht.<lb/>
+         </p>
+         <p>
+            Und die blutflamme strömte dahin durch die weiten,<lb/>
+            sie loderte zu deinem himmel empor und verzehrte die<lb/>
+            matten zu deinen füssen. Also dass der spiegel schmolz<lb/>
+            und dein tempel wankte. Da war es als fiele eine<lb/>
+            fessel von dir ab: du blicktest auf von der stätte deiner<lb/>
+            trauer und im purpur des untergangs strahlte dir ein<lb/>
+            neues erstehen. Ein namenloses glück hob mahnend<lb/>
+            seinen finger.<lb/>
+         </p>
+         <p>
+            Wer mag des genesenen wonne ermessen? wie<lb/>
+            eines trunkenen bebten deine lippen und deine hände<lb/>
+            hoben sich in segnender lust: anbeten, preisen durften<lb/>
+            die seligen. Eigne flamme hatte dich geläutert, du<lb/>
+            selbst hattest das ziel gefunden, das unerreichbar stets<lb/>
+            erreichte. Ihr eignes leben musste deine seele hingeben,<lb/>
+            auf dass sie leben könne. Leben im reiche des Wirk-<lb/>
+            lichen im lichten Saale der Vereinigung: der küste zu<lb/>
+            der nimmer ein einzelsein gelangt, die dennoch nur<lb/>
+         <pb n="10"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00016/full/600,/0/default.jpg"/>
+            einzelseines strahlung ist. Im ringenden sehnen nach<lb/>
+            diesem lande, im hegen und erweitern seiner grenzen<lb/>
+            und goldenen gaue, darin fand deine seele ziel und<lb/>
+            lohn für alle zeiten.<lb/>
+         </p>
+         <p>
+            Wie leuchtet nun ihr jugendlicher blick! Wie rüstet<lb/>
+            sie sich zum streite und bebt in kampfesgierde! Ihre<lb/>
+            sehnsucht wandelt gleich einer sonne über die gefilde,<lb/>
+            wie ein frühlingsregen weckt sie die geister des haines,<lb/>
+            nimmer aber erschöpft sich der born der lust.<lb/>
+         </p>
+         <p>
+            Ohne ende entquellen die ströme harmonischen<lb/>
+            wirkens der neuen schale.<lb/>
+         </p>
+         <p>
+            Verschwunden ist alles tageszagen: weggefegt die<lb/>
+            ängstliche eigensucht. Die immer am vergänglichen<lb/>
+            klebt und jedem werden abhold ist, die kleinmütige.<lb/>
+         </p>
+         <p>
+            Ein neues priestertum ist erstanden ein neues<lb/>
+            reich den gläubigen zu künden. Brausend fühlt die<lb/>
+            seele des schaffens, des echten schaffens unaussprech-<lb/>
+            liche Wonnen. Da zeugt jeder glücksgewinn ein<lb/>
+            kühneres hoffen: nur ein meilenstein zum weiter-<lb/>
+            schreiten mahnend dünkt jeder sieg. Ein jubelndes<lb/>
+            Vorwärts ist alles erringen. Der Pfad zum Leben ist<lb/>
+         <pb n="11"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00017/full/600,/0/default.jpg"/>
+            gefunden, der heilige weg auf dem jeder schritt ist<lb/>
+            gleichwie ein triumphgesang.<lb/>
+         </p>
+         <p>
+            Stets ungestillt brannte des einzelnen heisses be-<lb/>
+            gehren auch da seine seele aus dem dumpfen zucken<lb/>
+            des allseins sich gerettet. Sie verdorrete schier in ihrer<lb/>
+            wüste. Und wiederum hat sie sich hingegeben. Sehend<lb/>
+            ist sie geworden. Aller geheimnisse wissen glänzt in<lb/>
+            ihrem auge. Der gähnenden tiefe entflohn aus der<lb/>
+            wüste entronnen loht sie nun empor in morgentrunkene<lb/>
+            lüfte, ein opferrauch, aufwärts zum reich der reiche.<lb/>
+         </p>
+         </div>
+         <pb n="[12]"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00018/full/600,/0/default.jpg"/>
+         <pb n="13"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00019/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg type="poem"><lg>
+            <l><hi rendition="#in">Z</hi>UM klaren Berg der blauen seligkeiten</l><lb/>
+            <l>Vergessene müde pilger schreiten</l><lb/>
+            <l>Die pforte schloss sie pochen pochen</l><lb/>
+         </lg>
+         <lg>
+            <l>Verlorner töne himmlisch sehnend schweifen</l><lb/>
+            <l>Schlingt sich um sie in elfenzauberreigen</l><lb/>
+            <l>Sie pochen pochen</l><lb/>
+         </lg>
+         <lg>
+            <l>An ihrem leibe fremde gluten rinnen</l><lb/>
+            <l>Der berg der seligkeiten strahlet innen</l><lb/>
+            <l>Sie aber pochen pochen</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="14"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00020/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg><lg>
+            <l>MEIN Schwert mein Schwert wer badet dich rein?</l><lb/>
+            <l>Dort rüsten sie das fest im hain</l><lb/>
+            <l>Die holde winkt es flutet der wein</l><lb/>
+         </lg>
+         <lg>
+            <l>Es ist nicht blut o wär es blut</l><lb/>
+            <l>Das dich befleckt! Ich hiess es gut</l><lb/>
+            <l>Sieh ihre Schwerter blinken</l><lb/>
+         </lg>
+         <lg>
+            <l>Es ist nicht rost du kennst nicht ruh</l><lb/>
+            <l>Mit flammengierde kämpfest du</l><lb/>
+            <l>Doch nimmer magst du blinken</l><lb/>
+         </lg>
+         <lg>
+            <l>Das treibt mich fort von hain und haus</l><lb/>
+            <l>Von Freundes seite hinaus hinaus</l><lb/>
+            <l>Bis meine glieder sinken</l><lb/>
+         </lg>
+         <lg>
+            <l>Mein Schwert mein Schwert wer badet dich rein?</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="15"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00021/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>DES SCHWANES SANG</head><lb/>
+         
+         <lg><lg>
+            <l><hi rendition="#in">B</hi>RANDET im letzten schlage ihr purpurwogen</l><lb/>
+            <l>Müder schwingen lüftekosen wich</l><lb/>
+            <l>Sie trogen trogen</l><lb/>
+            <l>Auch mein träumen blich</l><lb/>
+         </lg>
+         <lg>
+            <l>Du weisses Licht ihr sehnsuchtblassen rinnen</l><lb/>
+            <l>Die durch den äther sickern auf die thale</l><lb/>
+            <l>Mit schneeigem linnen</l><lb/>
+            <l>Hüllt mir die male!</l><lb/>
+         </lg>
+         <lg>
+            <l>Ihr dunklen gärten gegürtet von welken mauern</l><lb/>
+            <l>Mit leisem schlummersange fächelt o fächelt!</l><lb/>
+            <l>Scheuchet o scheuchtet des nächtigen Fürsten trauern.</l><lb/>
+            <l>Dass er mir lächelt</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="16"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00022/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>OSIRIS.</head><lb/>
+         
+         <lg><lg>
+            <l><hi rendition="#in">S</hi>TRENGER Gott mit segen träufelnden händen</l><lb/>
+            <l>Ährenzeugender Flutenherr wir spenden</l><lb/>
+            <l>Schalen und düfte aus fernen schönen geländen</l><lb/>
+            <l>Halt uns Fürst mit den lebengebenden händen</l><lb/>
+         </lg>
+         <lg>
+            <l>Sieh wir dürsten <space dim="horizontal"/> o Herrscher <space dim="horizontal"/> sieh wir darben</l><lb/>
+            <l>Brennende gluten würgen und viele starben</l><lb/>
+            <l>Alle trauern wir bang in des todes farben</l><lb/>
+            <l>Hilf o Mächtiger gnädig sieh wir darben</l><lb/>
+         </lg>
+         <lg>
+            <l>Sollen wir frauen dir weihen und lockige knaben?</l><lb/>
+            <l>Dein ist ja alles Gütiger was wir haben</l><lb/>
+            <l>Kühlung gewähre und schatten uns zu laben</l><lb/>
+            <l>Dass die mädchen herrlicher blühn und die knaben</l><lb/>
+         </lg>
+         <pb n="17"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00023/full/600,/0/default.jpg"/>
+         <lg>
+            <l>Dass nicht dein garten dorre <space dim="horizontal"/> dein tempel falle</l><lb/>
+            <l>Dass auf ewig dein goldenes lob erschalle</l><lb/>
+            <l>Wahre dich – oder der tod vernichtet uns alle</l><lb/>
+            <l>Wahre dich Herr dass nicht du und dein reich zerfalle.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="18"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00024/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>OPFERKÖNIG</head><lb/>
+         
+         <lg><lg>
+            <l>»»<hi rendition="#in">D</hi>ICH hat die glut geblendet</l><lb/>
+            <l>Die den geweihten gütig küsst</l><lb/>
+            <l>Dir wird kein trunk gespendet</l><lb/>
+            <l>Dich sehret irdisches gelüst</l><lb/>
+            <l>Von unsern stufen steige</l><lb/>
+            <l>In unserm sange schweige««</l><lb/>
+         </lg>
+         <lg>
+            <l>Die weissen knaben heben</l><lb/>
+            <l>Den grünen stab zu schirm und wehr</l><lb/>
+            <l>Die stolzen vögel schweben</l><lb/>
+            <l>In lichtem Reigen um sie her</l><lb/>
+            <l>ER lauscht am heiligen stamme</l><lb/>
+            <l>ER lauscht der opferflamme</l><lb/>
+         </lg>
+         <pb n="19"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00025/full/600,/0/default.jpg"/>
+         <lg>
+            <l>Sie schmiegt sich seinen füssen</l><lb/>
+            <l>Die noch zum himmel aufgeloht</l><lb/>
+            <l>Mit götterschwingen grüssen</l><lb/>
+            <l>Die aare froh des herrn gebot</l><lb/>
+            <l>Der stab entfällt den händen</l><lb/>
+            <l>Fällt vor den heiligen bränden.</l><lb/>
+         </lg>
+         <lg>
+            <l>»Muss euch die flamme künden</l><lb/>
+            <l>Den nahen König armer chor?</l><lb/>
+            <l>Bergt euch in tiefsten gründen</l><lb/>
+            <l>Denn keiner lebt den ich erkor</l><lb/>
+            <l>In blumenfrohen auen</l><lb/>
+            <l>Mein neues reich zu schauen.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="20"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00026/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>HIRTENLIED.</head><lb/>
+         
+         <lg><lg>
+            <l><hi rendition="#in">W</hi>AHRET euch zeitlose blüten</l><lb/>
+            <l>Noch ist Sonnentag und sang</l><lb/>
+            <l>Meine lämmer darf ich hüten</l><lb/>
+            <l>Ohne sorg am grünen hang</l><lb/>
+         </lg>
+         <lg>
+            <l>Tanzt um sie in frommer acht</l><lb/>
+            <l>Meiner jungen lieder reigen</l><lb/>
+            <l>Höher sollt ihr höher steigen</l><lb/>
+            <l>Vor dem bühle haltet wacht</l><lb/>
+         </lg>
+         <lg>
+            <l>Scheucht und drängt und stürzt die schlimmen</l><lb/>
+            <l>Bis sie kauern eng geschart!</l><lb/>
+            <l>Meine lämmer wollen klimmen</l><lb/>
+            <l>Leitet sie auf luftiger fahrt.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="21"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00027/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>ELEUSISCH</head><lb/>
+         
+         <lg><lg>
+            <l><hi rendition="#in">D</hi>AS Licht verlöscht die weise</l><lb/>
+            <l>Zerrinnt im blauen duft</l><lb/>
+            <l>Gezogen sind die kreise</l><lb/>
+            <l>Geborsten gähnt die gruft</l><lb/>
+            <l>Hilf uns Jakchos</l><lb/>
+         </lg>
+         <lg>
+            <l>Der Meister naht die ähren</l><lb/>
+            <l>Erschauern seinem schritt</l><lb/>
+            <l>Er zieht auf weissen fähren</l><lb/>
+            <l>Wie nimmer eine glitt</l><lb/>
+            <l>Heil dir Jakchos</l><lb/>
+         </lg>
+         <pb n="22"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00028/full/600,/0/default.jpg"/>
+         <lg>
+            <l>Das Licht verlischt im thale</l><lb/>
+            <l>Versank der lezte stern</l><lb/>
+            <l>Nun lagert euch zum mahle</l><lb/>
+            <l>Willkommen ruft dem Herrn</l><lb/>
+            <l>Heil dir Jakchos!</l><lb/>
+         </lg>
+         <lg>
+            <l>Dem ungelezten schmachten</l><lb/>
+            <l>Giesst er der Gnade wein</l><lb/>
+            <l>Er naht er naht in prachten</l><lb/>
+            <l>Willkommen lasst ihn ein ..</l><lb/>
+            <l>Hilf uns Jakchos!</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="23"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00029/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>NÄNIE</head><lb/>
+         
+         <lg><lg>
+            <l><hi rendition="#in">B</hi>EBEND lauscht er mohnesgüsse</l><lb/>
+            <l>Fliessen auf die weissen glieder</l><lb/>
+            <l>Dass er heute sterben müsse</l><lb/>
+            <l>Singen ihm die quellen wieder</l><lb/>
+         </lg>
+         <lg>
+            <l>Von den pinien das rauschen</l><lb/>
+            <l>Schwebt heran auf schwarzen schwingen</l><lb/>
+            <l>Weisse mäntel drüben bauschen</l><lb/>
+            <l>Und die fernen saiten klingen</l><lb/>
+         </lg>
+         <lg>
+            <l>Milde lieder fromme laute</l><lb/>
+            <l>Labet ihn mit lindem schatten</l><lb/>
+            <l>Streuet rosmarin und reiche</l><lb/>
+            <l>Todesblumen um den matten</l><lb/>
+         </lg>
+         <pb n="24"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00030/full/600,/0/default.jpg"/>
+         <lg>
+            <l>Meister eile ihn zu krönen</l><lb/>
+            <l>Schlinge ihm die Purpurbinde –</l><lb/>
+            <l>Dass auch um die stirn dem schönen</l><lb/>
+            <l>Eppich sich und flieder winde!</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="25"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00031/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>EINZUG.</head><lb/>
+         
+         <lg><lg>
+            <l><hi rendition="#in">L</hi>ASTET ihr auf unsern brauen</l><lb/>
+            <l>Späte kränze <space dim="horizontal"/> fahles rot</l><lb/>
+            <l>Mahnend lockt des tages grauen</l><lb/>
+            <l>Am gestade harrt das boot</l><lb/>
+            <l>Säumt ihr bang? die flamme loht</l><lb/>
+         </lg>
+         <lg>
+            <l>Zündet sie des firstes sprossen</l><lb/>
+            <l>Reift die stolze unser grab</l><lb/>
+            <l>Auf vom lager ihr genossen</l><lb/>
+            <l>Weg den kelch <space dim="horizontal"/> zersplittre stab</l><lb/>
+         </lg>
+         <lg>
+            <l>Hebt die fackeln <space dim="horizontal"/> gebt geleite!</l><lb/>
+            <l>Fürst der fahrten sieh uns nahn –</l><lb/>
+            <l>Einsam ziehn wir in die weite</l><lb/>
+            <l>Nächtig auf besternter bahn</l><lb/>
+            <l>Starker nimm uns gnädig an</l><lb/>
+         </lg>
+         <pb n="26"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00032/full/600,/0/default.jpg"/>
+         <lg>
+            <l>Keines herrn gedungene sklaven</l><lb/>
+            <l>Freie bieten ihren arm</l><lb/>
+            <l>Dumpf im niedren zwinger schlafen</l><lb/>
+            <l>Knechte in geduldigem schwarm</l><lb/>
+         </lg>
+         <lg>
+            <l>Winkest du uns herr der hürden</l><lb/>
+            <l>Lobest die sich froh dir weihn!</l><lb/>
+            <l>Kühn und ledig alter bürden</l><lb/>
+            <l>Schreiten wir zur ruhe ein</l><lb/>
+            <l>Hüllt uns <space dim="horizontal"/> Herrlicher <space dim="horizontal"/> dein hain.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="27"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00033/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>DER KÖNIG SCHEIDET</head><lb/>
+         
+         <lg><lg>
+            <l><hi rendition="#in">W</hi>IMMERND in nächtiges lauschen versunken</l><lb/>
+            <l>Bangen die fluren banget der Saal</l><lb/>
+            <l>Schwer <space dim="horizontal"/> todesfahl –</l><lb/>
+            <l>Ehernen hufen entsprühen die funken –</l><lb/>
+            <l>Toset ein lediges ross durchs thal</l><lb/>
+         </lg>
+         <lg>
+            <l>Mädchen senket die flöten <space dim="horizontal"/> Bekränzte</l><lb/>
+            <l>Nimmer lauschet der gäste bund</l><lb/>
+            <l>Bleich lebenswund</l><lb/>
+            <l>Starrt <space dim="horizontal"/> der in jauchzenden schauern glänzte</l><lb/>
+            <l>Starrt ihr blick ins erwachte rund</l><lb/>
+         </lg>
+         <lg>
+            <l>Greiser könig die schale leere</l><lb/>
+            <l>Gürte dich hebe die schirmende hand</l><lb/>
+            <l>Blick übers land</l><lb/>
+            <l>Deinen kriegern entfallen die speere</l><lb/>
+            <l>Stärke dorret und schönheit schwand</l><lb/>
+         </lg>
+         <pb n="28"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00034/full/600,/0/default.jpg"/>
+         <lg>
+            <l>Aus den stürmen quellen die stimmen</l><lb/>
+            <l>Flammende Züge nimmer gesehen</l><lb/>
+            <l>Dunkle strassen gehn</l><lb/>
+            <l>Aus den klüften rauchet ein glimmen...</l><lb/>
+            <l>Siehst du des rosses mähne wehn?</l><lb/>
+         </lg>
+         <lg>
+            <l>Wehe schon dröhnt es auf heiliger schwelle –</l><lb/>
+            <l>«Schweiget alle die zeichen lohn</l><lb/>
+            <l>Brich <space dim="horizontal"/> goldner thron</l><lb/>
+            <l>Meinem dürsten schäumet die quelle</l><lb/>
+            <l>Vater du rufest müd ist dein sohn«</l><lb/>
+         </lg>
+         <lg>
+            <l>– Herr du verlässest deine getreuen? –</l><lb/>
+            <l>»Feierklänge umschweben mein haubt</l><lb/>
+            <l>Lust- und leidberaubt</l><lb/>
+            <l>Ruh ich bald und schlummer streuen</l><lb/>
+            <l>Haines wipfel <space dim="horizontal"/> dunkelbelaubt.«</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="29"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00035/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>DIES WAR DAS ZIEL?</head><lb/>
+         
+         <lg><lg>
+            <l><hi rendition="#in">W</hi>ELCHER ferne eherne thore springen?</l><lb/>
+            <l>Keine träume – du kennst sie – trennten die riegel</l><lb/>
+            <l>Trotzige recken rasen und schilde klingen</l><lb/>
+            <l>Rote feuer strömen aus dunkelem tiegel</l><lb/>
+         </lg>
+         <lg>
+            <l>Locken leuchten im thau der morgenstrahlen</l><lb/>
+            <l>Goldene locken gezäumt von seidenen vliessen</l><lb/>
+            <l>Widderhörner jubeln und tuben prahlen</l><lb/>
+            <l>Köstliche steine bangen in dumpfen verliessen</l><lb/>
+         </lg>
+         <lg>
+            <l>Ernst und flehend genaht auf blumigen pfaden</l><lb/>
+            <l>Bieten sie dir die krone: die herrenspange</l><lb/>
+            <l>Aller lande gehäufte garben laden....</l><lb/>
+            <l>Aber du neigest die stirn und lächelst lange.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="30"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00036/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>DIE ERLÖSUNG.</head><lb/>
+         
+         <lg><lg>
+            <l><hi rendition="#in">A</hi>M sklavenheerde muss die glut ermatten</l><lb/>
+            <l>Im zähen moder strauchelte und glitt</l><lb/>
+            <l>Der zage fuss der einst zur kuppe schritt</l><lb/>
+            <l>Gesenkt das haubt in schlimmer schwellen schatten</l><lb/>
+         </lg>
+         <lg>
+            <l>Die hand die keine rosenbande litt</l><lb/>
+            <l>Lässt sich in ehrnem frohn der schwester gatten</l><lb/>
+            <l>Die weissen zelter weiden auf den matten</l><lb/>
+            <l>Da nimmer sie zum sieg der könig ritt.</l><lb/>
+         </lg>
+         <lg>
+            <l>Die saiten gar vergassen ihre lieder</l><lb/>
+            <l>Sie beben ohne laut – gelöst der bann</l><lb/>
+            <l>Die fessel fällt der trübe spuk zerrann</l><lb/>
+         </lg>
+         <lg>
+            <l>In heiliger stille er die huld gewann</l><lb/>
+            <l>Die gnade die kein flehn erringen kann</l><lb/>
+            <l>Die lande grüssen ihren fürsten wieder</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="31"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00037/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>DAS OPFER.</head><lb/>
+         
+         <lg><lg>
+            <l><hi rendition="#in">I</hi>N schwerer schale rauchende brände</l><lb/>
+            <l>Duften schwellend am altar</l><lb/>
+            <l>Betend ring ich betend die hände</l><lb/>
+            <l>Meine seele bring ich dar</l><lb/>
+         </lg>
+         <lg>
+            <l>Wo im golde die büsser singen</l><lb/>
+            <l>Blüht sie und lohet zum heiligen preis</l><lb/>
+            <l>Seele seele <space dim="horizontal"/> ich darf dich bringen</l><lb/>
+            <l>Küssen das dornengekrönte reis</l><lb/>
+         </lg>
+         <lg>
+            <l>Meine seele <space dim="horizontal"/> im opferklange</l><lb/>
+            <l>Schimmert der weihen verheissenes gut</l><lb/>
+            <l>Glanz gebäre <space dim="horizontal"/> glanz empfange</l><lb/>
+            <l>Jubelnd stirb in himmlischer glut.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="32"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00038/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>AN MEINE LAUTE.</head><lb/>
+         
+         <lg><lg>
+            <l><hi rendition="#in">A</hi>US sternengold in heiliger nacht geschlagen</l><lb/>
+            <l>Mit welken kränzen träumerisch geziert</l><lb/>
+            <l>Genezt mit tiefem duft betaut von klagen</l><lb/>
+            <l>Birgst du die wunder die der tag verliert.</l><lb/>
+         </lg>
+         <lg>
+            <l>In keuschem harren heimlich buntem spriessen</l><lb/>
+            <l>Ruht leben dort und tod in wirrem bund</l><lb/>
+            <l>Die herrin träumt im rebengrünen rund</l><lb/>
+            <l>Verderbens blumen blaun im qualm der wiesen</l><lb/>
+         </lg>
+         <lg>
+            <l>Erlösen darf ich deiner seele schwingen</l><lb/>
+            <l>Der unsre sonne glanz und klang verliehn</l><lb/>
+            <l>Hör ich nicht schon das leise liebe singen</l><lb/>
+            <l>Vom weissen säulenhof herüberziehn?</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="[33]"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00039/full/600,/0/default.jpg"/>
+         <div>
+            <head>BLONDEL</head><lb/>
+         
+         <pb n="34"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00040/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg><lg>
+            <l><hi rendition="#in">I</hi>n meinen saiten zaget</l><lb/>
+            <l>Die ungewohnte süsse</l><lb/>
+            <l>Mit lichter chöre stimmen</l><lb/>
+            <l>Durchbeben – fernes glimmen –</l><lb/>
+            <l>Die jungen liebesgrüsse</l><lb/>
+            <l>Den tag der neu mir taget</l><lb/>
+         </lg>
+         <lg>
+            <l>Durft ich so ganz erraten</l><lb/>
+            <l>Ihr Guten eure gnade</l><lb/>
+            <l>In fernen zaubersälen</l><lb/>
+            <l>Sollt ich geschmeide wählen</l><lb/>
+            <l>Mir klafft die goldene lade</l><lb/>
+            <l>Mir reift die Saat der Saaten</l><lb/>
+         </lg>
+         <pb n="35"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00041/full/600,/0/default.jpg"/>
+         <lg>
+            <l>Zur ernte darf ich rüsten</l><lb/>
+            <l>In lichten räumen hegen</l><lb/>
+            <l>Die reiche pracht der garben</l><lb/>
+            <l>In reinsten himmelsfarben</l><lb/>
+            <l>Prangt meines suchens segen</l><lb/>
+            <l>An meiner heimat küsten.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="36"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00042/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg><lg>
+            <l><hi rendition="#in">I</hi>M blau erschimmernden gewande</l><lb/>
+            <l rend="ident">Schmiege dich in der barke rund</l><lb/>
+               <l rend="ident">Im grünen sund</l><lb/>
+         </lg>
+         <lg>
+            <l>Kein wehen mehr die satten lande</l><lb/>
+            <l rend="ident">Erschlummerten im reinen licht</l><lb/>
+            <l rend="ident">Das dich umflicht</l><lb/>
+         </lg>
+         <lg>
+            <l>Und mich dir gattet – blumenbande –</l><lb/>
+            <l rend="ident">Schon winkt das ufer dich heran</l><lb/>
+            <l rend="ident">Weiche mein kahn.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="37"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00043/full/600,/0/default.jpg"/>
+         <div type="poem">
+         <lg><lg>
+            <l><hi rendition="#in">W</hi>EISSE weisse blüten tauen</l><lb/>
+            <l>Lenz und lied</l><lb/>
+            <l>Lauten laden <space dim="horizontal"/> hehre frauen</l><lb/>
+            <l>Sehnend von dem söller schauen</l><lb/>
+            <l>Lied und lenz</l><lb/>
+         </lg>
+         <lg>
+            <l>Müde müde glieder beben</l><lb/>
+            <l>Lied und leid</l><lb/>
+            <l>Von dem söller schwalben schweben</l><lb/>
+            <l>Bergen ferne sich in reben</l><lb/>
+            <l>Leid und lied</l><lb/>
+         </lg>
+         <lg>
+            <l>Schwarze schwarze linnen laben</l><lb/>
+            <l>Lust und lied</l><lb/>
+            <l>Schöner frauen <space dim="horizontal"/> stolzer knaben</l><lb/>
+            <l>Schlanke hände ihn begraben</l><lb/>
+            <l>Lied und lust.</l><lb/>
+         </lg></lg>
+         </div>
+         </div>
+         <pb n="38"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00044/full/600,/0/default.jpg"/>
+         <div>
+            <head>IM DOME</head><lb/>
+         <div type="poem">
+         <lg><lg>
+            <l><hi rendition="#in">S</hi>ÜNDERIN die schwestern weinen</l><lb/>
+         </lg>
+         <lg>
+            <l>– Glomm ein schweben durch die hallen?</l><lb/>
+            <l>Blonde schwester flieht dein fuss?</l><lb/>
+            <l>Birgst dich scheu im dämmerwallen</l><lb/>
+            <l>Unserm winken unserm gruss –</l><lb/>
+            <l>«Meinen mantel fühl ich beben»</l><lb/>
+         </lg>
+         <pb n="39"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00045/full/600,/0/default.jpg"/>
+         <lg>
+            <l>– Stolze stirn dich kühlt die stufe</l><lb/>
+            <l>Sucht dein beten Unsre Frau? –</l><lb/>
+            <l>«Die in bittrer pein ich rufe</l><lb/>
+            <l>Gnädige in strahl und blau</l><lb/>
+            <l>Wolle mich zur magd erheben»</l><lb/>
+         </lg>
+         <lg>
+            <l>– Blonde schwester bang im dienen</l><lb/>
+            <l>Bang im heischen zagt die hand</l><lb/>
+            <l>Seit das wunder dir erschienen</l><lb/>
+            <l>Küssest du das goldne band –</l><lb/>
+            <l>«Herrin Herrin lass mich leben«</l><lb/>
+         </lg>
+         <lg>
+            <l>Sünderin <space dim="horizontal"/> die schwestern weinen.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="40"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00046/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg><lg>
+            <l><hi rendition="#in">Z</hi>UM feierlichen amt geweihte schreiten</l><lb/>
+            <l>Die sänge dröhnen dumpf: «in ewigkeiten</l><lb/>
+            <l>Gelobt gelobt....» geschmückte kerzen gleiten</l><lb/>
+         </lg>
+         <lg>
+            <l>Der schwarze zug verschleiert in gebeten!</l><lb/>
+            <l>Darf Sie im kreis der schwestern vor dich treten</l><lb/>
+            <l>Der lenz und nacht den weissen kranz verwehten?</l><lb/>
+         </lg>
+         <lg>
+            <l>Darf heut ihr auge ruhn auf deinen wangen?</l><lb/>
+            <l>Der gestern alle nachtigallen sangen</l><lb/>
+            <l>Darf sie bei des altares lilien prangen?</l><lb/>
+         </lg>
+         <lg>
+            <l>Im heiligen rauch verhauchen leise schritte</l><lb/>
+            <l>Die schwestern knieen: «erhör der bräute bitte</l><lb/>
+            <l>Ist eine sünderin in unsrer mitte</l><lb/>
+         </lg>
+         <pb n="41"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00047/full/600,/0/default.jpg"/>
+         <lg>
+            <l>In glut vertilge sie...» die dämpfe wallen</l><lb/>
+            <l>Aus goldner weite weht ein lichtes schallen:</l><lb/>
+            <l>Die sünderin erheb ich ob euch allen</l><lb/>
+         </lg>
+         <lg>
+            <l>In grosser liebe durfte sie gesunden</l><lb/>
+            <l>Die himmelskrone hält ihr haupt umwunden</l><lb/>
+            <l>An ihrem leibe strahlen meine wunden.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="42"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00048/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>DER SONNE NACH</head><lb/>
+         <lg><lg>
+            <l><hi rendition="#in">B</hi>LAU in düften <space dim="horizontal"/> blau in weiten</l><lb/>
+            <l>Unsrer seelen opferbrand</l><lb/>
+            <l>Bräutlich die vereinten schreiten</l><lb/>
+            <l>Durch das morgengoldne land</l><lb/>
+         </lg>
+         <lg>
+            <l>Bis der welt gedehnte gassen</l><lb/>
+            <l>Dämmerschön herüber wehn</l><lb/>
+            <l>Bis im dunklen glanz die blassen</l><lb/>
+            <l>All die blassen blumen stehn.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="43"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00049/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>WEISSE HÄNDE</head><lb/>
+         
+         <lg><lg>
+            <l><hi rendition="#in">Ü</hi>BER den sprossen tanzen die winde</l><lb/>
+            <l>Seliges suchen huschet im hain</l><lb/>
+            <l>Weisse hände locken so linde</l><lb/>
+            <l>Öffnen den wunder bergenden schrein</l><lb/>
+            <l rend="ident">Weisse hände <space dim="horizontal"/> weisse hände</l><lb/>
+         </lg>
+         <lg>
+            <l>Die sich wie falter im blauen wiegen</l><lb/>
+            <l>Schillernde wünsche hascht ihr in hast</l><lb/>
+            <l>Schleier und hülle weicht euerm schmiegen</l><lb/>
+            <l>Lachende wimpel hisst ihr am mast</l><lb/>
+         </lg>
+         <lg>
+            <l>Zitternd und stolz erfüllt ihr die gnaden</l><lb/>
+            <l>Rufet die göttin von heimlicher bucht</l><lb/>
+            <l>Strahlend schon reifet an lichten gestaden</l><lb/>
+            <l>Goldenen zaubers gehütete frucht</l><lb/>
+            <l rend="ident">Weisse hände <space dim="horizontal"/> weisse hände</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="44"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00050/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>IL TRAMONTO</head><lb/>
+         
+         <lg><lg>
+            <l><hi rendition="#in">I</hi>N deinen augen schwammen die weiten</l><lb/>
+            <l>Im roten wallen wiegte sich glanz</l><lb/>
+            <l>Im wehen schwoll der duft der zeiten</l><lb/>
+            <l>Vom altar hoben wir den kranz</l><lb/>
+         </lg>
+         <lg>
+            <l>Wie zittern milde die fernen strahlen!</l><lb/>
+            <l>Dem schweigen lauschet dem schweigen lauscht!</l><lb/>
+            <l>Zum grossen opfergruss im fahlen</l><lb/>
+            <l>Dämmer der stille banner rauscht..</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="45"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00051/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>DAS ENDE</head><lb/>
+         <lg><lg>
+            <l><hi rendition="#in">V</hi>ON seiner stirne floss ein fahles glimmen</l><lb/>
+            <l>Wie ein gewitter das zu thale sinkt</l><lb/>
+            <l>Hoch im gewölk verwehten frühlingsstimmen</l><lb/>
+            <l>Und seine hand zum lezten scheiden winkt</l><lb/>
+         </lg>
+         <lg>
+            <l>Sie nickte leise zu der wellen träumen</l><lb/>
+            <l>Versunken alle sonnen – ihre hand</l><lb/>
+            <l>Spielte mit des gewandes schwarzen säumen</l><lb/>
+            <l>Aus ihrem auge nie die thräne schwand.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="46"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00052/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>CORONA</head><lb/>
+         <lg><lg>
+            <l><hi rendition="#in">S</hi>IE war ja tot <space dim="horizontal"/> sie rief mir heute</l><lb/>
+            <l>In grau und düster ganz gehüllt</l><lb/>
+            <l>Von goldener grabesglocken geläute</l><lb/>
+            <l>War rings die schwere luft erfüllt</l><lb/>
+         </lg>
+         <lg>
+            <l>Komm <space dim="horizontal"/> komm <space dim="horizontal"/> der riegel fiel vom thore</l><lb/>
+            <l>Sie war ja tot <space dim="horizontal"/> so klar die bahn</l><lb/>
+            <l>Der nachwind dehnt sich dumpf im rohre</l><lb/>
+            <l>Im weissen schein die toten nahn</l><lb/>
+         </lg>
+         <lg>
+            <l>Ach wie die blassen lippen kosen</l><lb/>
+            <l>«Weisst du noch... an der firne rand...</l><lb/>
+            <l>Komm <space dim="horizontal"/> komm die mutter harrt mit rosen»</l><lb/>
+         </lg>
+         <lg>
+            <l>Vom raine lief der glanz zu thale</l><lb/>
+            <l>Im bache trieb ein rotes band...</l><lb/>
+            <l>Ich kniee am weissen totenmale.</l><lb/>
+         </lg></lg>
+         </div>
+         </div>
+         <pb n="[47]"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00053/full/600,/0/default.jpg"/>
+         <div>
+            <head>AUS DER GROSSEN<lb/>
+            </head>
+         
+         <pb n="48"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00054/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg><lg>
+            <l><hi rendition="#in">M</hi>IR war so bang und wie ein wehes raunen</l><lb/>
+            <l>Glitt leise durchs gemach der dolden hauch</l><lb/>
+            <l>Zitternd entsandt vom weissen fliederstrauch</l><lb/>
+            <l>Und in mir wuchs ein staunen</l><lb/>
+         </lg>
+         <lg>
+            <l>Ein grosses staunen das mit bleichen lippen</l><lb/>
+            <l>Die stirne küsste die der duft umspült</l><lb/>
+            <l>Wie wellenschaum die nachtgehüllten klippen</l><lb/>
+            <l>Mit todeskühle kühlt</l><lb/>
+         </lg>
+         <lg>
+            <l>.. Aus deinem bunten haus ist sie gegangen</l><lb/>
+            <l>Erschlummre nimmer da die milde schied..</l><lb/>
+            <l>Das bleiche küssen streifte meine wangen</l><lb/>
+            <l>Als wie ein leztes lied.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="49"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00055/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg><lg>
+            <l><hi rendition="#in">S</hi>o stehst du da ganz ohne klagen</l><lb/>
+               <l>Ganz stille <space dim="horizontal"/> immer schwieg dein mund</l><lb/>
+            <l>Zu vieles hattest du zu sagen</l><lb/>
+            <l>Ich kann dein schweigen nicht ertragen</l><lb/>
+               <l>Du bildnis <space dim="horizontal"/> was verschweigt dein mund?</l><lb/>
+         </lg>
+         <lg>
+            <l>Du warst das licht das eine reine</l><lb/>
+            <l>Ich trug dich meiner bahn voraus</l><lb/>
+            <l>Den trüben pfad mit weichem scheine</l><lb/>
+            <l>Lind mir zu lösen .. und ich weine:</l><lb/>
+            <l>Ich löschte selbst das licht mir aus</l><lb/>
+         </lg>
+         <lg>
+            <l>Zu vieles hattest du zu sagen</l><lb/>
+            <l>Mein auge zittert .. bleiches bild</l><lb/>
+            <l>Verboten bist du meinen tagen</l><lb/>
+            <l>Nur meine nächte dürfen wagen</l><lb/>
+            <l>Dich zu begrüssen bleiches bild.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="50"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00056/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg><lg>
+            <l><hi rendition="#in">V</hi>ERBOTEN bildnis deine blicke bluten</l><lb/>
+            <l>Die lippen blichen die erhörung warben</l><lb/>
+            <l>Deiner flechten rollende fluten</l><lb/>
+               <l>Nie gedämmte <space dim="horizontal"/> deine flechten starben</l><lb/>
+         </lg>
+         <lg>
+            <l>Verboten bildnis aus beglänztem thale</l><lb/>
+            <l>Zu müdem grusse mit beringter rechte</l><lb/>
+            <l>Neigest die flutende goldene schale</l><lb/>
+            <l>Im reigen meiner schwülen mitternächte</l><lb/>
+         </lg>
+         <lg>
+            <l>Berauschte stille deine kränze sinken</l><lb/>
+            <l>Und unser lächeln toten ein geleit</l><lb/>
+            <l>Aus früh versiegtem borne will es trinken</l><lb/>
+            <l>Im grünen haine unserm lenz geweiht.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="51"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00057/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg><lg>
+            <l><hi rendition="#in">D</hi>ES tags geborgte hüllen sanken</l><lb/>
+            <l>Gewaltige nacht mit purpurranken</l><lb/>
+            <l>Hältst du die bebenden die frohen</l><lb/>
+            <l>Die in des tages lauter flut versanken</l><lb/>
+            <l>Die heiligen feuer wieder lohen!</l><lb/>
+         </lg>
+         <lg>
+            <l>O dürft ich eilen euch zu loben!</l><lb/>
+            <l>Des tages flammen in mir toben</l><lb/>
+            <l>Es fiel die binde der geweihten</l><lb/>
+            <l>Die priester sind <space dim="horizontal"/> da ich genaht <space dim="horizontal"/> zerstoben</l><lb/>
+            <l>Auf dürrem grase muss ich schreiten</l><lb/>
+         </lg>
+         <lg>
+            <l>Nur ring und stab dem Pilger blieben</l><lb/>
+            <l>Dem waller der vom heil vertrieben</l><lb/>
+            <l>Doch traut er seines ringes segen:</l><lb/>
+            <l>Er führ ins schwarze schloss ihn wo die sieben</l><lb/>
+            <l>Jungfraun die tote herrin hegen.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="52"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00058/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>ERINNERUNGEN</head><lb/>
+         <lg><lg>
+            <l><hi rendition="#in">W</hi>O sich die späten reigen runden</l><lb/>
+            <l>Im klaren saale fiel der thau</l><lb/>
+            <l>Wo sich die späten reigen runden</l><lb/>
+            <l>Aus schwülen sonnenschwülen stunden</l><lb/>
+            <l>Quoll kühlend das ersehnte blau</l><lb/>
+         </lg>
+         <pb n="53"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00059/full/600,/0/default.jpg"/>
+         <lg>
+            <l>Die tagesmüden schatten steigen</l><lb/>
+            <l>Erzitternd im geborgten glanz</l><lb/>
+            <l>Die tagesmüden schatten steigen</l><lb/>
+            <l>Die lebensroten lieder schweigen</l><lb/>
+            <l>Die königin befielt den tanz</l><lb/>
+         </lg>
+         <lg>
+            <l>Ihr naht in zagen und in klagen</l><lb/>
+            <l>Geflohn aus trüben traumes rast</l><lb/>
+            <l>Ihr naht in zagen und in klagen</l><lb/>
+            <l>Aus purpurbächen elfenhagen</l><lb/>
+            <l>In des gedenkens banger hast</l><lb/>
+         </lg>
+         <lg>
+            <l>Von lichter stirne glitten schleier</l><lb/>
+            <l>Ein lächeln lauscht ein scheiden bebt</l><lb/>
+            <l>Von lichter stirne glitten schleier</l><lb/>
+            <l>In mattem schein erstrahlt die feier</l><lb/>
+            <l>Die ihr aus duft und welken webt.</l><lb/>
+         </lg></lg></div></div>
+         <pb n="[54]"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00060/full/600,/0/default.jpg"/>
+         <pb n="[55]"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00061/full/600,/0/default.jpg"/>
+         <div>
+            <head>ULAIS</head><lb/>
+         <pb n="56"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00062/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg><lg>
+            <l><hi rendition="#in">V</hi>OM bösen baume flüstertest du heute</l><lb/>
+            <l>In dessen schweigen weisse schemen kauern</l><lb/>
+            <l>Den schläfer küssend in geheimen schauern</l><lb/>
+            <l>Den nimmermehr die neue sonne freute</l><lb/>
+         </lg>
+         <lg>
+            <l>Mit der entthronten stummem höhnen</l><lb/>
+            <l>Sieht er die reigen sich am bach verteilen</l><lb/>
+            <l>Sein leben zittert in gebrochnen tönen</l><lb/>
+            <l>Sein fuss will fürder und muss weilen</l><lb/>
+         </lg>
+         <lg>
+            <l>Aus seinen locken sinken schwarze sterne</l><lb/>
+            <l>Ein grosses büssen faltet ihm die hände</l><lb/>
+            <l>Dem blick erstrahlt in nie ereilter ferne</l><lb/>
+            <l>Das eden <space dim="horizontal"/> da er die genesung fände.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="57"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00063/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg><lg>
+            <l><hi rendition="#in">S</hi>IE schwebt im blau des morgenwindes</l><lb/>
+            <l>Im zweifellicht von tag und nacht</l><lb/>
+            <l>Im auge das lächeln eines kindes</l><lb/>
+            <l>Dem eine krone sie gebracht</l><lb/>
+         </lg>
+         <lg>
+            <l>Von ihren lippen fliesst ein schweigen</l><lb/>
+            <l>In schwerer falten heiligem chor</l><lb/>
+            <l>Der sich die lilien schauernd neigen</l><lb/>
+            <l>Die rote rose sich erkor.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="58"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00064/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg><lg>
+            <l><hi rendition="#in">I</hi>HREN sitz umflossen die roten reigen</l><lb/>
+            <l>Über den wassern wiegte sich ihr blick</l><lb/>
+            <l>In die wiesen schmiegte sich ihr schweigen</l><lb/>
+            <l>Drauss die kleinen goldenen engel steigen</l><lb/>
+         </lg>
+         <lg>
+            <l>Aber die reigen der dienenden hehren frauen</l><lb/>
+            <l>Flüstern vom blassen hauche der nacht geschreckt</l><lb/>
+            <l>Der das schwere leben der tiefen weckt</l><lb/>
+            <l>Scheu zum monde die goldenen engel schauen</l><lb/>
+         </lg>
+         <lg>
+            <l>Ihre blicke taumeln und schwarze klänge</l><lb/>
+            <l>Wogen zum rande der wiese &#x00B7; der herrin thron</l><lb/>
+            <l>Wankt und den reigen welken die blumengehänge</l><lb/>
+            <l>Ferne vertönen der goldenen engel sänge.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="59"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00065/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg>
+            <l><hi rendition="#in">V</hi>ERTRÄUMTER wünsche ränke</l><lb/>
+            <l>Glimmen um ihr zögernd leben</l><lb/>
+            <l>Dass sie vom weine tränke</l><lb/>
+            <l>Eh noch die frist gegeben</l><lb/>
+            <l>Dass sie sänke sänke</l><lb/>
+            <l>Durch blüten vom dämmernden grün gewiegt</l><lb/>
+            <l>In ewig regem schweben</l><lb/>
+            <l>Zum weissen teich der nacht</l><lb/>
+            <l>Der tot vor leben liegt</l><lb/>
+            <l>Indes die weich gerührten wipfel sacht</l><lb/>
+            <l>Das lied vom werden weben.</l><lb/>
+         </lg></div>
+         <pb n="60"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00066/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg><lg>
+            <l><hi rendition="#in">D</hi>U hast ins Leben stumm gesehn</l><lb/>
+            <l>Mit deinen blicken die vergehn</l><lb/>
+            <l>In denen alle welten schäumen</l><lb/>
+            <l>In denen alle lenze träumen</l><lb/>
+            <l>Vom auferstehn</l><lb/>
+         </lg>
+         <lg>
+            <l>Wer mag den frühling dir befrein?</l><lb/>
+            <l>Wer wird der welterlöser sein?</l><lb/>
+            <l>Rings licht und hall in den geländen</l><lb/>
+            <l>Stumm ruht dein haubt in deinen händen</l><lb/>
+            <l>Ewig allein.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="61"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00067/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>HERODIAS</head><lb/>
+         
+         <lg><lg>
+            <l><hi rendition="#in">D</hi>EN bleichen finger hebt er und lacht im hohne</l><lb/>
+            <l>Die toten blicke starren und klagen mich an</l><lb/>
+            <l>Sie raunen vom schauernden hain und vom knospenden lohne</l><lb/>
+            <l>Von küssen und küssen und schwarzer todesbahn</l><lb/>
+         </lg>
+         <lg>
+            <l>Sie raunen und lachen und ob ich die lippen schürze</l><lb/>
+            <l>Tief tief im schachte des lebens bettet sich qual</l><lb/>
+            <l>Und ob ich mit schläferndem gusse den becher würze</l><lb/>
+            <l>Ins dickicht der träume dringet der richtende strahl</l><lb/>
+         </lg>
+         <pb n="62"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00068/full/600,/0/default.jpg"/>
+         <lg>
+            <l>Vernehmet alle <space dim="horizontal"/> der heilige ward geschlagen</l><lb/>
+            <l>Um meines hasses willen verstummte sein mund</l><lb/>
+            <l>Um meiner liebe willen liess ich ihn schlagen</l><lb/>
+            <l>Um meiner gluten willen erblasste sein mund</l><lb/>
+         </lg>
+         <lg>
+            <l>In seinen locken schlummerten meine gnaden</l><lb/>
+            <l>Licht glänzten die lieben wenn er zur frühe schied .</l><lb/>
+            <l>Nun wird nimmer sein sehnender sang mich laden</l><lb/>
+            <l>Nimmer nimmer harrt er im lauschenden ried</l><lb/>
+         </lg>
+         <lg>
+            <l>Aber die blicke drohen ... wohin ich schreite</l><lb/>
+            <l>Flimmert der locken wehende goldene flut</l><lb/>
+            <l>Deine arme Segnender Sühnender breite:</l><lb/>
+            <l>Dein ist der sieg du herrlicher! Blut um Blut!</l><lb/>
+         </lg></lg></div>
+         <pb n="63"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00069/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>ERFÜLLUNG.</head>
+         
+         <lg><lg>
+            <l><hi rendition="#in">G</hi>OLDENE tage verhallen – winzerlieder –</l><lb/>
+            <l>Segnend schreitet der Meister übers gefilde</l><lb/>
+            <l>Blaugewandet mit dem blick der milde</l><lb/>
+            <l>Mit dem tiefen reichen lächeln der milde</l><lb/>
+         </lg>
+         <lg>
+            <l>Hirt und herde lagern auf den matten</l><lb/>
+            <l>Mohnesgluten schlummern in den ähren</l><lb/>
+            <l>Von den halden steigen wehende schatten</l><lb/>
+         </lg>
+         <lg>
+            <l>Weben um die garben tauende schleier.</l><lb/>
+            <l>Heilig erntefroh erbebt das Leben</l><lb/>
+            <l>Küsst sich stumm und rüstet sich zur Feier</l><lb/>
+         </lg>
+         <lg>
+            <l>Harrt des Nahenden mit dem blick der milde</l><lb/>
+            <l>Kränzet einmal noch die reifen glieder</l><lb/>
+            <l>Blaugewandeter du beugst dich nieder</l><lb/>
+            <l>Beugest lächelnd dich zum Leben nieder.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="64"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00070/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>ADONIS.</head><lb/>
+         <lg><lg>
+            <l><hi rendition="#in">U</hi>M schlanke glieder schwanken lichte blüten</l><lb/>
+            <l>Gebogne ampeln deinen schlummer hüten</l><lb/>
+            <l>Ein rother mantel deckt verborgnes grauen,</l><lb/>
+            <l>In denen träumerische gluten glühten</l><lb/>
+            <l>In deinen augen schwer vom kuss der frauen</l><lb/>
+            <l>Die lezten blassen finsternisse tauen</l><lb/>
+         </lg>
+         <pb n="65"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00071/full/600,/0/default.jpg"/>
+         <lg>
+            <l>Vor deiner zier die lieblichen epheben</l><lb/>
+            <l>Die greisen büsser müde arme heben</l><lb/>
+            <l>Zu deiner bahre dringt kein ruf der schaaren</l><lb/>
+            <l>Nur einen weissen falter seht ihr schweben</l><lb/>
+            <l>Er schmiegt sich zitternd deinen weichen haaren</l><lb/>
+            <l>Er fächelt und er schmeichelt lind den klaren</l><lb/>
+         </lg>
+         <lg>
+            <l>Und welkt &#x00B7; den die Geweihten schweigend loben</l><lb/>
+            <l>Adonis schied <space dim="horizontal"/> die wilden gluten stoben</l><lb/>
+            <l>Adonis wandelt aus den lichten hallen</l><lb/>
+            <l>Den schleier hat er von dem sein gehoben</l><lb/>
+            <l>Vom baum der erde ist die frucht gefallen</l><lb/>
+            <l>Zum toten herrn die bangen heere wallen</l><lb/>
+         </lg>
+         <lg>
+            <l>Im weiten haine wogt das grosse trauern</l><lb/>
+            <l>Das wehe stöhnen pocht an weisse mauern</l><lb/>
+            <l>Durch alle reihn verhüllte schrecken schleichen</l><lb/>
+            <l>In allen häusern schwarze schatten lauern</l><lb/>
+            <l>Im opferrauche will die lust erbleichen</l><lb/>
+            <l>Vom leben trunken will das leben weichen.</l><lb/>
+         </lg></lg></div>
+         <pb n="66"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00072/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>SEMELE</head><lb/>
+         <lg><lg>
+            <l><hi rendition="#in">A</hi>M Quell der Schwüle tief verschwiegen</l><lb/>
+            <l>Gebeugt gebeugt zum blutigen born</l><lb/>
+            <l>Am Saume des Lebens muss ich liegen</l><lb/>
+            <l>Verdorrt und lästernd muss ich liegen</l><lb/>
+            <l>Schwer wogt um mich das gelbe korn</l><lb/>
+         </lg>
+         <pb n="67"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00073/full/600,/0/default.jpg"/>
+         <lg>
+            <l>Von meinen küssen <space dim="horizontal"/> irrem tasten</l><lb/>
+            <l>Zuckt halm und ähre <space dim="horizontal"/> weh und wild</l><lb/>
+            <l>Will ich in deinen blicken rasten</l><lb/>
+            <l>Wann wiegst du mich in rausch und rasten?</l><lb/>
+            <l>Wann bebt dein kommen durchs gefild?</l><lb/>
+            <l>1</l><lb/>
+         </lg>
+         <lg>
+            <l>Hülle mich <space dim="horizontal"/> ringendes erfassen</l><lb/>
+            <l>Brautfackeln <space dim="horizontal"/> qualmende <space dim="horizontal"/> seid entfacht</l><lb/>
+            <l>In deinem purpur will ich erblassen</l><lb/>
+            <l>In rosenflocken will ich erblassen</l><lb/>
+            <l>Du thau der sterne <space dim="horizontal"/> du blut der nacht</l><lb/>
+         </lg>
+         <lg>
+            <l>Du goldner pfeil aus dumpfer ferne</l><lb/>
+            <l>Glanz ist dein nahen <space dim="horizontal"/> sturm ist dein pfad</l><lb/>
+            <l>Erlöser du <space dim="horizontal"/> wie leb ich gerne!</l><lb/>
+            <l>Gewaltiger <space dim="horizontal"/> wie sterb ich gerne!</l><lb/>
+            <l>Herr halte mich!. O glut .. o bad ..</l><lb/>
+         </lg></lg></div>
+         <pb n="68"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00074/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>DITHYRAMBE</head><lb/>
+         <lg><lg>
+            <l><hi rendition="#in">G</hi>OLDEN und trüb um schwarze gestade</l><lb/>
+            <l>Sprüht ihr im rauche sühnender lieder</l><lb/>
+            <l>Wangen <space dim="horizontal"/> schmieget euch heiligem bade</l><lb/>
+            <l>Schwarze gestade</l><lb/>
+            <l>Bebt ihr im taumel singender glieder</l><lb/>
+         </lg>
+         <lg>
+            <l>Thäler der stille banget dem hehren</l><lb/>
+            <l>Heil dir Dionysos! brich das reis!</l><lb/>
+            <l>Bändiger Endiger <space dim="horizontal"/> wonne der lehren</l><lb/>
+            <l>Jubelt dem hehren</l><lb/>
+            <l>Fachet die gluten und schlinget den kreis</l><lb/>
+         </lg>
+         <lg>
+            <l>Dunkel im brande ruhen im rasen</l><lb/>
+            <l>Hüllen fallen <space dim="horizontal"/> Du Bräutlicher werbe</l><lb/>
+            <l>Kränz uns mit küssen! alle genasen</l><lb/>
+            <l>Ruhen im rasen</l><lb/>
+            <l>Berget uns flammen <space dim="horizontal"/> weiss strahlet das erbe!</l><lb/>
+         </lg></lg></div></div>
+         <pb n="[69]"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00075/full/600,/0/default.jpg"/>
+         <div>
+            <head>DIE DUMPFEN LIEDER</head><lb/>
+         <pb n="70"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00076/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg><lg>
+            <l><hi rendition="#in">M</hi>IR ist es nie verblichen</l><lb/>
+            <l>Was mir ganz leise rief</l><lb/>
+            <l>Ganz leise als ich schlief</l><lb/>
+         </lg>
+         <lg>
+            <l>Durchs zimmer kams geschlichen</l><lb/>
+            <l>Das dunkelglühende wort –</l><lb/>
+            <l>Und immer glimmt es fort</l><lb/>
+         </lg>
+         <lg>
+            <l>Im schatten jeder stunde</l><lb/>
+            <l>In jubel und in gram:</l><lb/>
+            <l>Das wort mir keiner nahm</l><lb/>
+         </lg>
+         <lg>
+            <l>Ob ich von ihm gesunde?</l><lb/>
+            <l>Ob ich gesunden will?</l><lb/>
+            <l>Das wort &#x00B7; &#x00B7; es wimmert &#x00B7; &#x00B7; still &#x00B7; &#x00B7;</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="71"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00077/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg><lg>
+            <l><hi rendition="#in">I</hi>n den trüben gassen</l><lb/>
+            <l>Braust es und will ins licht</l><lb/>
+            <l>Ist es der reigen</l><lb/>
+            <l>Den ich verlassen?</l><lb/>
+         </lg>
+         <lg>
+            <l>Sind es schwälende träume</l><lb/>
+            <l>Die zum leben ich zwang</l><lb/>
+            <l>Zu meinem leben</l><lb/>
+            <l>Zu meinem drang?</l><lb/>
+         </lg>
+         <lg>
+            <l>Wärt ihr schatten geblieben</l><lb/>
+            <l>An der schwelle der nacht –</l><lb/>
+            <l>Ihr und ich erwacht</l><lb/>
+            <l>Ihr und ich vertrieben!</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="72"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00078/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <lg><lg>
+            <l><hi rendition="#in">D</hi>EN traum sah ich stieben</l><lb/>
+            <l>Er flog durchs hohe haus</l><lb/>
+            <l>Wo ist der traum geblieben?</l><lb/>
+            <l>Die lichter loschen aus</l><lb/>
+         </lg>
+         <lg>
+            <l>Es hallt so dumpt so trocken</l><lb/>
+            <l>Wie grabschollen durchs haus</l><lb/>
+            <l>Dichter fallen die flocken</l><lb/>
+            <l>Die lichter loschen aus.</l><lb/>
+         </lg>
+         <lg>
+            <l>Die weite weite leere</l><lb/>
+            <l>Wirbt schaum und wirbt schein</l><lb/>
+            <l>Dass unsre tote pein</l><lb/>
+            <l>Glühend wiederkehre.</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="73"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00079/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>AN DEN NACHTWIND</head><lb/>
+         <lg><lg>
+            <l><hi rendition="#in">L</hi>ASSE die wasser zerrinnen</l><lb/>
+            <l>Alten gedenkens flut</l><lb/>
+            <l>Trunken in schwebendes sinnen</l><lb/>
+            <l>Wiege mich gut</l><lb/>
+         </lg>
+         <lg>
+            <l>Von dem bühle der berge</l><lb/>
+            <l>Grüsse kein licht</l><lb/>
+            <l>Nachtwind <space dim="horizontal"/> schweifender ferge</l><lb/>
+            <l>Hülle mich dicht</l><lb/>
+         </lg>
+         <lg>
+            <l>Wiege mich gut vor tage</l><lb/>
+            <l>Harre schwelgende nacht</l><lb/>
+            <l>Jüngling mit goldener wage</l><lb/>
+            <l>Halte wacht.</l><lb/>
+         </lg></lg></div>
+         <pb n="74"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00080/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>HERBST</head><lb/>
+         <lg><lg>
+            <l><hi rendition="#in">D</hi>IE nebel eilen</l><lb/>
+            <l>Auf breiten strassen</l><lb/>
+            <l>Zum singen des wassers</l><lb/>
+            <l>Die nebel eilen</l><lb/>
+         </lg>
+         <lg>
+            <l>Blaudunstig und leise</l><lb/>
+            <l>Entfliehen die tage</l><lb/>
+            <l>Mit weichem geflüster</l><lb/>
+            <l>Blaudunstig und leise</l><lb/>
+         </lg>
+         <pb n="75"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00081/full/600,/0/default.jpg"/>
+         <lg>
+            <l>Am ufer verschwiegen</l><lb/>
+            <l>Schlummern die barken</l><lb/>
+            <l>Der fahrten müde</l><lb/>
+            <l>Am ufer verschwiegen</l><lb/>
+         </lg>
+         <lg>
+            <l>Der dich dürfte lenken</l><lb/>
+            <l>Du boot meiner träume –</l><lb/>
+            <l>Du harrest des starken</l><lb/>
+            <l>Der dich dürfte lenken!</l><lb/>
+         </lg>
+         <lg>
+            <l>wär ich der ferge</l><lb/>
+            <l>Zum eden zum eiland</l><lb/>
+            <l>In heilige lenze</l><lb/>
+            <l>O wär ich der ferge!</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="76"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00082/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>WELKEN</head><lb/>
+         <lg><lg>
+            <l><hi rendition="#in">D</hi>ÜRFT ich durchs schweigende wasser streifen</l><lb/>
+            <l>Gebrochnen augs im schwarzen nachen</l><lb/>
+            <l>Der grossen stille becher greifen</l><lb/>
+            <l>O gäb es kein erwachen</l><lb/>
+         </lg>
+         <lg>
+            <l>Kein harren fragen flammend ringen</l><lb/>
+            <l>Kein opfern am entweihten stein –</l><lb/>
+            <l>Botin mit mohnbethauten schwingen</l><lb/>
+            <l>Wann rufst du mich zum reihn?</l><lb/>
+         </lg></lg>
+         </div>
+         <pb n="77"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00083/full/600,/0/default.jpg"/>
+         <div type="poem">
+            <head>GEBET AN ULAIS</head><lb/>
+         <lg><lg>
+            <l><hi rendition="#in">D</hi>ASS du stürbest</l><lb/>
+            <l>Im waldgeflüster</l><lb/>
+            <l>Wo durch die buchen</l><lb/>
+            <l>Der wind sich drängt</l><lb/>
+            <l>Wo schimmerndes grün und schimmernde lieder</l><lb/>
+            <l>Schmeichelnd den faltigen fels bekränzen –</l><lb/>
+            <l>Dass du stürbest! /</l><lb/>
+         </lg>
+         <lg>
+            <l>Siehe die blüte</l><lb/>
+            <l>Die fruchtverheissende</l><lb/>
+            <l>Siehe ein schrein</l><lb/>
+            <l>Drin kleinode scheinen</l><lb/>
+            <l>Siehe ein turm</l><lb/>
+            <l>Drin könige bangen:</l><lb/>
+            <l>Ein grosses harren</l><lb/>
+            <l>War bis heute dein heil</l><lb/>
+            <l>Und deine schritte nimmer im staube.</l><lb/>
+         </lg>
+         <lg>
+            <l>Aber ein Dräuen wandelt herauf</l><lb/>
+            <l>Und deine tage</l><lb/>
+            <l>Sind bald nicht mehr dein</l><lb/>
+         </lg>
+         <pb n="78"
+             facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00084/full/600,/0/default.jpg"/>
+         <lg>
+            <l>Deine nächte – weh deinen nächten</l><lb/>
+            <l>Weh dir Ulais</l><lb/>
+         </lg>
+         <lg>
+            <l>Siehe dein leben</l><lb/>
+            <l>Wankt und zittert und nimmer in glut</l><lb/>
+            <l>Wird sich dein auge wandelnd verklären</l><lb/>
+            <l>Schauen durftest du</l><lb/>
+            <l>Nimmer erfassen</l><lb/>
+            <l>Keinem himmel reifen</l><lb/>
+            <l>Deine tiefen schlummernden Wunder –</l><lb/>
+            <l>Wissend macht uns dein wunder blick</l><lb/>
+            <l>Ahnen liess dich dein loos</l><lb/>
+            <l>Aber nimmer</l><lb/>
+            <l>Naht der flammmende</l><lb/>
+            <l>Der dich löse da er dich bindet</l><lb/>
+            <l>Der dich huldigend zwänge –</l><lb/>
+            <l>Nimmer &#x00B7; Entsagen heisse dein stolz &#x00B7; &#x00B7;</l><lb/>
+            <l>Ehe du siechest in dumpfem verdämmern</l><lb/>
+            <l>Stirb o stirb vor allem erfüllen</l><lb/>
+            <l>Stirb o stirb dein leben lösche</l><lb/>
+            <l>Wie der fackelbrand im weine versprüht.</l><lb/>
+         </lg></lg>
+         </div></div>
+         </body>
+         <pb facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00085/full/600,/0/default.jpg"/>
+         <pb facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00086/full/600,/0/default.jpg"/>
+         <back>
+            <p>
+            <l>DIESES BUCH WURDE GEDRUCKT FÜR</l><lb/>
+            <l>DEN VERLAG DER BLÄTTER FÜR DIE</l><lb/>
+            <l>KUNST IM JANUAR DES JAHRES ACHT</l><lb/>
+            <l>ZEHNHUNDERT UND SIEBEN UND NEUN</l><lb/>
+            <l>ZIG IN BERLIN BEI F. CYNAMON IN</l><lb/>
+            <l>ZWEIHUNDERT UND SIEBEN ABZÜGEN.</l><lb/>
+         </p>
+         <pb facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00087/full/600,/0/default.jpg"/>
+         <pb facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00088/full/600,/0/default.jpg"/>
+         <pb facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00089/full/600,/0/default.jpg"/>
+         <p>
+            <l>VOLLHERSUI</l><lb/>
+            <l>GOCHBINDEREI</l><lb/>
+            <l>MONCHEN</l><lb/>
+         </p>
+         <pb facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11819086_00090/full/600,/0/default.jpg"/>
+         </back>
+      
+   </text>
+</TEI>

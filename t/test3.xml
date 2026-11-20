@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">       <teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title type="main">Zweyhundert und zwölfter Brief</title>
+         <title type="volume" n="13">XIIIter Theil</title>
+         <author>
+            <persName ref="http://d-nb.info/gnd/118500074">
+               <surname>Abbt</surname>
+               <forename>Thomas</forename>
+            </persName>
+         </author>
+         <editor corresp="#DTACorpusPublisher">
+            <persName ref="http://d-nb.info/gnd/115266127">
+               <surname>Geyken</surname>
+               <forename>Alexander</forename>
+            </persName>
+         </editor>
+         <editor corresp="#DTACorpusPublisher">
+            <persName ref="http://d-nb.info/gnd/1222198746">
+               <surname>Haaf</surname>
+               <forename>Susanne</forename>
+            </persName>
+         </editor>
+         <editor corresp="#DTACorpusPublisher">
+            <persName ref="http://d-nb.info/gnd/1019062681">
+               <surname>Jurish</surname>
+               <forename>Bryan</forename>
+            </persName>
+         </editor>
+         <editor corresp="#DTACorpusPublisher">
+            <persName>
+               <surname>Boenig</surname>
+               <forename>Matthias</forename>
+            </persName>
+         </editor>
+         <editor corresp="#DTACorpusPublisher">
+            <persName>
+               <surname>Thomas</surname>
+               <forename>Christian</forename>
+            </persName>
+         </editor>
+         <editor corresp="#DTACorpusPublisher">
+            <persName>
+               <surname>Wiegand</surname>
+               <forename>Frank</forename>
+            </persName>
+         </editor>
+         <respStmt xml:id="textsource-1" corresp="#availability-textsource-1">
+            <orgName>Universität Duisburg-Essen, Projekt Lyriktheorie (Dr. Rudolf Brandmeyer)</orgName>
+            <resp>
+               <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+               <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+               <ref target="https://www.uni-due.de/lyriktheorie/texte/1762_abbt.html"/>
+               <date type="importDTA">2018-10-01T13:04:31Z</date>
+            </resp>
+         </respStmt>
+         <respStmt>
+            <persName>
+               <surname>Hartz</surname>
+               <forename>Rahel Gajaneh</forename>
+            </persName>
+            <resp>
+               <note type="remarkResponsibility">Bearbeitung der digitalen Edition.</note>
+               <date type="importDTA">2018-10-01T13:04:31Z</date>
+            </resp>
+         </respStmt>
+         <respStmt>
+            <orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+            <resp>
+               <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe</note>
+               <ref target="https://www.bbaw.de"/>
+            </resp>
+         </respStmt>
+      </titleStmt>
+      <editionStmt><edition>Vollständige digitalisierte Ausgabe.</edition></editionStmt>
+      <extent>
+         <measure type="images">26</measure>
+         <measure type="tokens">3613</measure>
+         <measure type="types">1624</measure>
+         <measure type="characters">24469</measure>
+      </extent>
+      <publicationStmt>
+         <publisher xml:id="DTACorpusPublisher">
+            <email>dta@bbaw.de</email>
+            <orgName role="project">Deutsches Textarchiv</orgName>
+            <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+            <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+            <address>
+               <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               <country>Germany</country>
+            </address>
+         </publisher>
+         <pubPlace>Berlin</pubPlace>
+         <date type="publication">2025-02-28T14:48:23Z</date>
+         <availability>
+            <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+               <p>Creative Commons-Lizenz Namensnennung 4.0 International (CC BY 4.0)</p>
+            </licence>
+         </availability>
+         <idno>
+            <idno type="URLWeb">https://www.deutschestextarchiv.de/abbt_brief_1762</idno>
+            <idno type="URLXML">https://www.deutschestextarchiv.de/dtaq/book/download_xml/abbt_brief_1762</idno>
+            <idno type="URLHTML">https://www.deutschestextarchiv.de/dtaq/book/download_html/abbt_brief_1762</idno>
+            <idno type="URLText">https://www.deutschestextarchiv.de/dtaq/book/download_text/abbt_brief_1762</idno>
+            <idno type="DTADirName">abbt_brief_1762</idno>
+            <idno type="DTAID">32703</idno>
+         </idno>
+      </publicationStmt>
+      <sourceDesc>
+         <bibl type="DS">Abbt, Thomas: Zweyhundert und zwölfter Brief. In: Lessing, Gotthold Ephraim (Hg.), Briefe, die neueste Litteratur betreffend. Berlin, 1762 (= Bd. 13), S. 61–86.</bibl>
+         <biblFull>
+            <titleStmt>
+               <title level="a" type="main">Zweyhundert und zwölfter Brief</title>
+               <title level="a" type="volume" n="13">XIIIter Theil</title>
+               <author>
+                  <persName ref="http://d-nb.info/gnd/118500074">
+                     <surname>Abbt</surname>
+                     <forename>Thomas</forename>
+                  </persName>
+               </author>
+            </titleStmt>
+            <editionStmt>
+               <edition n="1"/>
+            </editionStmt>
+            <publicationStmt>
+               <publisher><name>Friedrich Nicolai</name></publisher>
+               <pubPlace>Berlin</pubPlace>
+               <date type="publication">1762</date>
+            </publicationStmt>
+            <seriesStmt>
+               <title level="s" type="main">Briefe, die neueste Litteratur betreffend</title>
+               <biblScope unit="pages">S. 61–86</biblScope>
+            </seriesStmt>
+         </biblFull>
+         <msDesc>
+            <msIdentifier>
+               <repository>Münchner Digitalisierungszentrum Digitale Bibliothek</repository>
+               <idno>
+                  <idno type="URLImages">https://reader.digitale-sammlungen.de/resolve/display/bsb10539061.html</idno>
+               </idno>
+            </msIdentifier>
+            <physDesc>
+               <typeDesc>
+                  <p>Fraktur</p>
+               </typeDesc>
+            </physDesc>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+      <editorialDecl>
+         <p>
+            <![CDATA[
+<p>Verfahren der Texterfassung: OCR mit Nachkorrektur.</p>
+<p>
+Bogensignaturen: nicht übernommen;
+Druckfehler: keine Angabe;
+fremdsprachliches Material: keine Angabe;
+Geminations-/Abkürzungsstriche: keine Angabe;
+Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): wie Vorlage;
+i/j in Fraktur: keine Angabe;
+I/J in Fraktur: Lautwert transkribiert;
+Kolumnentitel: keine Angabe;
+Kustoden: nicht übernommen;
+langes s (ſ): als s transkribiert;
+Normalisierungen: keine Angabe;
+rundes r (&amp;#xa75b;): keine Angabe;
+Seitenumbrüche markiert: ja;
+Silbentrennung: aufgelöst;
+u/v bzw. U/V: keine Angabe;
+Vokale mit übergest. e: als ä/ö/ü transkribiert;
+Vollständigkeit: vollständig erfasst;
+Zeichensetzung: DTABf-getreu;
+Zeilenumbrüche markiert: nein;
+</p>
+]]>
+         </p>
+      </editorialDecl>
+      <tagsDecl>
+         <rendition scheme="css" xml:id="aq">font-family:sans-serif</rendition>
+         <rendition scheme="css" xml:id="b">font-weight:bold</rendition>
+         <rendition scheme="css" xml:id="blue">color:blue</rendition>
+         <rendition scheme="css" xml:id="c">display:block; text-align:center</rendition>
+         <rendition scheme="css" xml:id="et">display:block; margin-left:2em; text-indent:0</rendition>
+         <rendition scheme="css" xml:id="et2">display:block; margin-left:4em; text-indent:0</rendition>
+         <rendition scheme="css" xml:id="et3">display:block; margin-left:6em; text-indent:0</rendition>
+         <rendition scheme="css" xml:id="f">border:1px dotted silver</rendition>
+         <rendition scheme="css" xml:id="fr">border:1px dotted silver</rendition>
+         <rendition scheme="css" xml:id="g">letter-spacing:0.125em</rendition>
+         <rendition scheme="css" xml:id="i">font-style:italic</rendition>
+         <rendition scheme="css" xml:id="in">font-size:150%</rendition>
+         <rendition scheme="css" xml:id="k">font-variant:small-caps</rendition>
+         <rendition scheme="css" xml:id="larger">font-size:larger</rendition>
+         <rendition scheme="css" xml:id="red">color:red</rendition>
+         <rendition scheme="css" xml:id="right">display:block; text-align:right</rendition>
+         <rendition scheme="css" xml:id="s">text-decoration:line-through</rendition>
+         <rendition scheme="css" xml:id="smaller">font-size:smaller</rendition>
+         <rendition scheme="css" xml:id="sub">vertical-align:sub; font-size:.7em</rendition>
+         <rendition scheme="css" xml:id="sup">vertical-align:super; font-size:.7em</rendition>
+         <rendition scheme="css" xml:id="u">text-decoration:underline</rendition>
+         <rendition scheme="css" xml:id="uu">border-bottom:double 3px #000</rendition>
+      </tagsDecl>
+   </encodingDesc>
+   <profileDesc>
+      <langUsage>
+         <language ident="deu">(Früh-)Neuhochdeutsch</language>
+         <language ident="deu">German</language>
+      </langUsage>
+      <textClass>
+         <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Wissenschaft</classCode>
+         <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Literaturwissenschaft</classCode>
+         <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dtae</classCode>
+      </textClass>
+   </profileDesc>
+</teiHeader>
+   <text><body>
+      <pb facs="#f0001" n="61"/>
+      <div><head>Zweyhundert und zwölfter<lb/>
+         Brief.</head><lb/>
+         <lb/>
+         <p>  Leute, die mit den Lateinischen Schriftstellern recht bekannt sind, gelten leider für  Erscheinungen unter uns, und wenn uns ein solcher ein Empfehlungsschreiben von einem  ehrwürdigen Alten überreicht, so macht er uns beynahe für sich partheyisch, ohne daß   wir uns selbst oder andere uns tadeln können. Wir fühlen uns gleichsam genöthiget, die  wenigen noch glimmenden Funken mit einigem Lobe aufzublasen, obgleich nicht
+            all-<lb/>
+            <pb facs="#f0002" n="62"/>
+            zustark, damit sie nicht geschwinde sehr helle werden, und dann – verschwinden. –  </p><lb/>
+         <p>  Und was wird nun, fragen Sie, auf dieses Vorspiel folgen? Weiter nichts, als ein paar kleine  Bändchen lateinischer Gedichte.<note place="foot" n="*"><hi rendition="#aq">Klotzii opuscula poetica</hi>, Altenburg bey Richter, 1761. und C. C. S ** <hi rendition="#aq">Carminum Libri duo</hi>,      Leipzig bey Heinsius Erben, 1761, beyde in 8.</note>  Nicht von einem und eben demselben Verfasser; folglich auch nicht einerley Lobes oder  Tadels fähig. Aber ich will sie nur beyde zusammen nehmen.  </p><lb/>
+         <p>  Man darf die Drohungen der Dichter nicht immer buchstäblich nehmen; sonst dürfte ich es  wol nicht wagen, ein Urtheil über diese Herren zu fällen, nachdem der eine für dem andern  über jeden Tadler ein <hi rendition="#aq">Venus-anathema</hi> gerufen hat.  </p><lb/>
+         <lg type="poem">  <l><hi rendition="#aq">O illum rosea Cypro</hi></l><lb/>
+            <l><hi rendition="#aq">Aeternumque Paphi deliciis manu</hi></l><lb/>
+            <l><hi rendition="#aq">Irata Venus arceat,</hi></l><lb/>
+            <l><hi rendition="#aq">Qui te cunque petat dentibus improbis</hi></l><lb/>
+            <l><hi rendition="#aq">Te Musarum amor &amp; meus!</hi></l></lg><lb/>
+         <pb facs="#f0003" n="63"/>
+         <p>x
+            <pb facs="#f0004" n="64"/>
+            findet doch, so oft auch ihr Innhalt fast von allen Dichtern bearbeitet worden, den  schönen Ausgang:  </p><lb/>
+         <lb/>
+         <p><hi rendition="#b #c">Die Fortsetzung folgt künftig.</hi></p><lb/>
+         <milestone rendition="#hr" unit="section"/></div><lb/>
+   </body></text></TEI>

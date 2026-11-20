@@ -1,0 +1,21 @@
+# list all targets here
+SYNC_TARGETS := edition.sync
+
+# EHD: edition humboldt digital
+#
+# These texts are within a git checkout in ~/src/edition-humboldt-digital.
+# 
+# Before building new HTML and index files, do a "git pull" and link the
+# XML files in "~/src/edition-humboldt-digital/data" to "input/edition"
+edition.src := ~/src/edition-humboldt-digital
+edition.columns := [{"title":"Collection"},{"title":"File"},{"title":"Title"}]
+edition.sync:
+	$(call check-dir,$(edition.src))
+	git -C $(edition.src) pull
+	$(call check-dir,$(edition.src)/data)
+	ln -sfn $(edition.src)/data input/edition
+
+# No need to change this.
+define check-dir
+@test -d $(1) || { echo "Error: directory $(1) does not exist."; exit 1; }
+endef

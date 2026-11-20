@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="wrapper.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+           <list rendition="#rightBraced">
+             <item>1. Punkt</item><lb/>
+             <item>2. Punkt</item><lb/>
+             <item>3. Punkt</item><lb/>
+             <item>4. Punkt</item><lb/>
+           </list>
+           <p>Zusammenfassung</p>
+         </div>
+         <div>
+            <list>
+               <item>
+                  <list rendition="#leftBraced">
+                     <item>1. Punkt</item><lb/>
+                     <item>2. Punkt</item><lb/>
+                     <item>3. Punkt</item><lb/>
+                     <item>4. Punkt</item><lb/>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <milestone rendition="#hr" unit="section"/>
+         <div>
+            <list>
+               <item>
+                  <list rendition="#rightBraced">
+                     <item>1. <hi rendition="#aq">Ciliaris.</hi></item><lb/>
+                     <item>2. <hi rendition="#aq">Orbicularis ſupe-<lb/>rior.</hi></item><lb/>
+                     <item>3. <hi rendition="#aq">Orbicularis infe-<lb/>rior.</hi></item><lb/>
+                     <item>4. <hi rendition="#aq">Levator ſeu rectus.</hi></item><lb/>
+                  </list>
+                  <hi rendition="#aq">Palpebras<lb/>movent clau-<lb/>dunt &amp; ape-<lb/>riunt.</hi>
+               </item>
+            </list>
+         </div>
+         <milestone rendition="#hr" unit="section"/>
+         <div>
+            <table>
+               <row>
+                  <cell>[Tabellenwert 1]</cell>
+                  <cell rows="7" rendition="#leftBraced">[xxx verbindender Tabelleneintrag zu 1–7]</cell>
+               </row>
+               <row>
+                  <cell>[Tabellenwert 2]</cell>
+               </row>
+               <row>
+                  <cell>[Tabellenwert 3]</cell>
+               </row>
+               <row>
+                  <cell>[Tabellenwert 4]</cell>
+               </row>
+               <row>
+                  <cell>[Tabellenwert 5]</cell>
+               </row>
+               <row>
+                  <cell>[Tabellenwert 6]</cell>
+               </row>
+               <row>
+                  <cell>[Tabellenwert 7]</cell>
+               </row>
+            </table>
+         </div>
+         <milestone rendition="#hr" unit="section"/>
+         <div>
+            <table>
+               <row>
+                  <cell rows="2" rendition="#rightBraced">[verbindender Tabelleneintrag zu 1 und 2]</cell>
+                  <cell>[Tabellenwert 1]</cell>
+               </row>
+               <row>
+                  <cell>[Tabellenwert 2]</cell>
+               </row>
+            </table>
+         </div>
+         <milestone rendition="#hr" unit="section"/>
+         <div>
+            <table>
+               <row>
+                  <cell>[Tabellenwert 1]</cell>
+                  <cell>[Tabellenwert 2]</cell>
+               </row>
+               <row>
+                  <cell cols="2" rendition="#topBraced">[verbindender Tabelleneintrag zu 1 und 2]</cell>
+               </row>
+            </table>
+         </div>
+         <milestone rendition="#hr" unit="section"/>
+         <div>
+            <table>
+               <row>
+                  <cell cols="2" rendition="#bottomBraced">[verbindender Tabelleneintrag zu 1 und 2 asj klj alkjsdfl kjaskl djfkla jskldjf aklsj klfjaskl ]</cell>
+               </row>
+               <row>
+                  <cell>[Tabellenwert 1]</cell>
+                  <cell>[Tabellenwert 2]</cell>
+                  <cell>[Tabellenwert 3]</cell>
+                  <cell>[Tabellenwert 4]</cell>
+                  <cell>[Tabellenwert 5]</cell>
+                  <cell>[Tabellenwert 6]</cell>
+                  <cell>[Tabellenwert 7]</cell>
+               </row>
+            </table>
+         </div>
+         <milestone rendition="#hr" unit="section"/>
+         <div>
+            <head>Linien</head>
+            <milestone rendition="#hr" unit="section"/>
+            <milestone rendition="#hrBlue" unit="section"/>
+            <milestone rendition="#hrRed" unit="section"/>
+            <milestone rendition="#vr" unit="section"/>
+         </div>
+         <milestone rendition="#hr" unit="section"/>
+         <div>
+            <head>Typografische Hervorhebungen</head>
+            <table>
+               <row>
+                  <cell>#aq</cell>
+                  <cell>normaler Text, <hi rendition="#aq">Text in Antiqua</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#b</cell>
+                  <cell>normaler Text, <hi rendition="#b">fettgedruckter Text</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#blue</cell>
+                  <cell>normaler Text, <hi rendition="#blue">blauer Text</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#c</cell>
+                  <cell>normaler Text, <hi rendition="#c">zentrierter Text</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#et</cell>
+                  <cell>normaler Text, <hi rendition="#et">eingerückter Text</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#et2</cell>
+                  <cell>normaler Text, <hi rendition="#et2">doppelt eingerückter Text</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#et3</cell>
+                  <cell>normaler Text, <hi rendition="#et3">dreifach eingerückter Text</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#fr</cell>
+                  <cell>normaler Text, <hi rendition="#fr">Text in Fraktur</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#g</cell>
+                  <cell>normaler Text, <hi rendition="#g">gesperrter Text</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#i</cell>
+                  <cell>normaler Text, <hi rendition="#i">kursiver Text</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#in</cell>
+                  <cell>normaler Text, <hi rendition="#in">Initiale</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#k</cell>
+                  <cell>normaler Text, <hi rendition="#k">Text in Kapitälchen</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#larger</cell>
+                  <cell>normaler Text, <hi rendition="#larger">größerer Text</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#red</cell>
+                  <cell>normaler Text, <hi rendition="#red">roter Text</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#right</cell>
+                  <cell>normaler Text, <hi rendition="#right">rechtsbündiger Text</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#s</cell>
+                  <cell>normaler Text, <hi rendition="#s">durchgestrichener</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#smaller</cell>
+                  <cell>normaler Text, <hi rendition="#smaller">kleinerer Text</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#sup</cell>
+                  <cell>normaler Text, <hi rendition="#sup">hochgestellter Text</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#sub</cell>
+                  <cell>normaler Text, <hi rendition="#sub">tiefgestellter Text</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#u</cell>
+                  <cell>normaler Text, <hi rendition="#u">unterstrichener Text</hi>, normaler Text</cell>
+               </row>
+               <row>
+                  <cell>#u</cell>
+                  <cell>normaler Text, <hi rendition="#uu">doppelt unterstrichener Text</hi>, normaler Text</cell>
+               </row>
+            </table>
+         </div>
+         <div>
+            <head>Formeln</head>
+            <p>Es zerfällt dann die Gleichung (2.) in die folgenden beiden:<lb/>
+               <list>
+                  <item>(3.) 
+                     <list rendition="#leftBraced">
+                        <item>
+                           <formula notation="TeX">0 = 4\pi q' + k^2\Psi' + \frac{d^2\Psi'}{dx^2} + \frac{d^2\Psi'}{dy^2} + \frac{d^2\Psi'}{dz^2}</formula>,
+                        </item><lb/>
+                        <item>
+                           <formula notation="TeX">0 = 4\pi q'' + k^2\Psi'' + \frac{d^2\Psi''}{dx^2} + \frac{d^2\Psi''}{dy^2} + \frac{d^2\Psi''}{dz^2}</formula>,
+                        </item>
+                     </list><lb/>
+                  </item></list>
+               [...]</p>
+         </div>
+         <div>
+            <head>Überschrift</head>
+            <argument><p>Worum es geht</p></argument>
+            <p>Text</p>
+         </div>
+      </body>
+  </text>
+</TEI>
